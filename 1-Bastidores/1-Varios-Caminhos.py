@@ -30,5 +30,21 @@ Sec_XX = [
 ]
 
 
-Fontes_Historicas =[]
-#pag. 11/348
+Fontes_Historicas =[
+    'Conhecimento Histórioco pressupoe métodos científico na construção',
+    'Conhecimento Histórioco pressupoe argumentação racional, evidências e lógica',
+    'Evidências para sustentação argumentativa são Fontes Históricas ou documento histórico',
+    'Documentos Históricos pressupões direta ou indiretamente a intervenção humana',
+    'Documentos Históricos podem ser escritos ou mesmo materiais diversos',
+    'Há multiplicidade e pluralidade de pontos de vista sobre o passado',
+    'Discursos orais, escritos, monumentos, obras literárias, pinturas e obras de artes em geral, objetos do cotidiano, corpos preservados, esqueletos, DNA etc..',
+    'Diante dessa diversidade, o historiador necessita direcionar sua pesquisa e organizar suas fontes, sem desconsiderar o restante das fontes.',
+    'Além de uma profunda analise das fontes, o pesquisador deve considerar o contexto de sua produção, grupos e valores que representam e a maneira como abordam e retratam os diferente gurpos sociais',
+    'A própria história é uma fonte histórica e reflete o olhar de uma epoca, ou período, por isso as perguntas e enfoques podem mudar com o tempo.',
+    'O olhar histórico é, portanto, dinâmico, fragmentado, sobre situações concretas das quais não pode escapar, das quais busca recontruílas, não sendo possível em sua completude',
+    ''
+]
+
+Trabalho_Historiador []
+#pag. 12/348
+#file:///L:/Linear_/Base-Jump_07/Hist%C3%B3ria%20Geral%20e%20do%20Brasil%20Volume%201.pdf
