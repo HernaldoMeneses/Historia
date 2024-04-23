@@ -45,6 +45,10 @@ Fontes_Historicas =[
     ''
 ]
 
-Trabalho_Historiador []
+Trabalho_Historiador [
+    'Para chegar ao historiador como evidência, a fonte precisa ser recolhida, escolhida e analisada.'
+    'Entre o passado e o historiador há uma série de "filtros": a própria preservação de uma fonte pode ser um desses filtros.'
+
+]
 #pag. 12/348
 #file:///L:/Linear_/Base-Jump_07/Hist%C3%B3ria%20Geral%20e%20do%20Brasil%20Volume%201.pdf
